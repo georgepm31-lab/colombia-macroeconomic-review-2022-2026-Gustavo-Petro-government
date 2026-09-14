@@ -32,7 +32,7 @@ The empirical findings highlight a defining structural tension: **accelerated so
 ### 1. Macroeconomic Handover Baseline (August 2022)
 The administration inherited strong post-pandemic consumption growth alongside severe overheating: double-digit inflation (10.84%), twin deficits (-5.3% fiscal, -6.2% current account), and a massive ~COP 36T fuel subsidy deficit.
 <p align="center">
-  <img src="figures/fig1_baseline_profile_2022.png" width="90%" alt="Macro Baseline Profile 2022">
+  <img src="fig1_baseline_profile_2022.png" width="90%" alt="Macro Baseline Profile 2022">
 </p>
 
 ### 2. Output Deceleration & The Capital Investment Slump
