@@ -90,3 +90,54 @@ A side-by-side empirical scorecard contrasting macro stabilization and social ga
 │   └── fig7_synthesis_scorecard.png                    # Figure 7.1
 ├── README.md                                           # Project documentation & visual dashboard
 └── requirements.txt
+```
+---
+
+## Tech Stack
+
+* **Python 3.9+**
+* **Pandas:** Time series manipulation, data cleaning, and real/nominal deflation.
+* **NumPy:** Statistical arrays and numerical transformations.
+* **Matplotlib & Seaborn:** Production of executive-grade macroeconomic visualizations.
+
+## Execution and Reproducibility
+
+## Tech Stack
+
+* **Python 3.9+**
+* **Pandas:** Time series manipulation, data cleaning, and real/nominal deflation.
+* **NumPy:** Statistical arrays and numerical transformations.
+* **Matplotlib & Seaborn:** Production of executive-grade macroeconomic visualizations.
+
+## Execution and Reproducibility
+
+1. Clone the repository:
+```bash
+git clone [https://github.com/georgepm31-lab/colombia-macroeconomic-review-2022-2026-Gustavo-Petro-government.git](https://github.com/georgepm31-lab/colombia-macroeconomic-review-2022-2026-Gustavo-Petro-government.git)
+cd colombia-macroeconomic-review-2022-2026-Gustavo-Petro-government
+```
+
+2. Install required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the notebook:
+
+```bash
+jupyter notebook notebooks/colombia_macroeconomic_review_2022_2026.ipynb
+```
+
+Primary Data Sources
+DANE (Departamento Administrativo Nacional de Estadística): Cuentas Nacionales Trimestrales, ISE, IPC, Gran Encuesta Integrada de Hogares (GEIH).
+
+Banco de la República de Colombia: Tasa de Intervención de Política Monetaria, TRM, Balanza de Pagos, Flujos de IED.  
+
+Ministerio de Hacienda y Crédito Público / CARF: Marco Fiscal de Mediano Plazo, Informes del Comité Autónomo de la Regla Fisc
+Author
+Jorge Enrique
+
+Data Science & Macroeconomic Analytics
+
+GitHub Profile
