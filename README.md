@@ -27,6 +27,52 @@ The empirical findings highlight a defining structural tension: **accelerated so
 | **Fiscal Accounts & Debt** | • **Tax Reform (Law 2277):** Initial revenue boost and progressive taxation framework introduced in 2022–2023. | • **Fiscal Squeeze & Debt Rigidity:** Central government deficit widened back to -5.6% of GDP in 2024, requiring mandatory spending freezes.<br>• **Capital Crowding Out:** Public debt interest payments (4.6% of GDP) surpassed productive public investment (3.3% of GDP). |
 
 ---
+## Visual Highlights & Key Empirical Findings
+
+### 1. Macroeconomic Handover Baseline (August 2022)
+The administration inherited strong post-pandemic consumption growth alongside severe overheating: double-digit inflation (10.84%), twin deficits (-5.3% fiscal, -6.2% current account), and a massive ~COP 36T fuel subsidy deficit.
+<p align="center">
+  <img src="figures/fig1_baseline_profile_2022.png" width="90%" alt="Macro Baseline Profile 2022">
+</p>
+
+### 2. Output Deceleration & The Capital Investment Slump
+While headline GDP avoided a technical recession, Gross Fixed Capital Formation dropped to ~15% of GDP. Core sectors like construction (-3.9%) and manufacturing (-1.8%) weighed down aggregate activity.
+<p align="center">
+  <img src="figures/fig2_growth_investment_sectors.png" width="95%" alt="Growth and Capital Investment">
+</p>
+
+### 3. Disinflation Path & The Central Bank Reaction Function
+A sharp drop in food inflation led headline disinflation, while regulated fuel price adjustments kept core stickiness elevated, requiring a prolonged restrictive stance (+400 to +600 bps real policy rate).
+<p align="center">
+  <img src="figures/fig3_inflation_monetary_policy.png" width="95%" alt="Inflation and Monetary Policy">
+</p>
+
+### 4. Labor Market Resilience & Real Minimum Wage Gains
+Unemployment remained contained in single digits (~9.1%–9.7%) and real minimum wage increases lowered monetary poverty to under 30%, though labor informality stayed entrenched above 54%.
+<p align="center">
+  <img src="figures/fig4_labor_wages_poverty.png" width="95%" alt="Labor Market and Real Wages">
+</p>
+
+### 5. Foreign Exchange Stabilization & FDI Reallocation
+After reaching ~COP 5,000 in late 2022, the Colombian Peso appreciated back to the ~4,100 corridor. FDI in oil and mining fell by more than 50%, while non-extractive sectors (services, tech, tourism) expanded.
+<p align="center">
+  <img src="figures/fig5_fx_external_fdi.png" width="95%" alt="FX and FDI Flows">
+</p>
+
+### 6. Fiscal Strain & The Public Capital Crowding-Out Effect
+By 2024, sovereign debt interest payments (4.6% of GDP) surpassed productive public investment (3.3% of GDP), highlighting structural budget rigidity.
+<p align="center">
+  <img src="figures/fig6_fiscal_deficit_crowding_out.png" width="95%" alt="Fiscal Deficit and Crowding Out">
+</p>
+
+### 7. Consolidated Executive Scorecard (2022 Baseline vs. 2026 Outturn)
+A side-by-side empirical scorecard contrasting macro stabilization and social gains against private capital contraction and fiscal pressures.
+<p align="center">
+  <img src="figures/fig7_synthesis_scorecard.png" width="95%" alt="Macroeconomic Scorecard 2022 vs 2026">
+</p>
+
+---
+
 
 ## Project Structure
 
