@@ -131,15 +131,15 @@ pip install -r requirements.txt
 jupyter notebook notebooks/colombia_macroeconomic_review_2022_2026.ipynb
 ```
 
-Primary Data Sources
-DANE (Departamento Administrativo Nacional de Estadística): Cuentas Nacionales Trimestrales, ISE, IPC, Gran Encuesta Integrada de Hogares (GEIH).
+## Primary Data Sources
+*DANE (Departamento Administrativo Nacional de Estadística): Cuentas Nacionales Trimestrales, ISE, IPC, Gran Encuesta Integrada de Hogares (GEIH).
 
-Banco de la República de Colombia: Tasa de Intervención de Política Monetaria, TRM, Balanza de Pagos, Flujos de IED.  
+*Banco de la República de Colombia: Tasa de Intervención de Política Monetaria, TRM, Balanza de Pagos, Flujos de IED.  
 
-Ministerio de Hacienda y Crédito Público / CARF: Marco Fiscal de Mediano Plazo, Informes del Comité Autónomo de la Regla Fisc
-Author
-Jorge Enrique
+*Ministerio de Hacienda y Crédito Público / CARF: Marco Fiscal de Mediano Plazo, Informes del Comité Autónomo de la Regla Fisc
+## Author
+**Jorge Enrique**
 
-Data Science & Macroeconomic Analytics
+*Data Science & Macroeconomic Analytics
 
-GitHub Profile
+* [GitHub Profile](https://github.com/georgepm31-lab)
