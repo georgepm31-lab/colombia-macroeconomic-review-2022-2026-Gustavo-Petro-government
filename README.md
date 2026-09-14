@@ -109,13 +109,14 @@ A side-by-side empirical scorecard contrasting macro stabilization and social ga
 * **NumPy:** Statistical arrays and numerical transformations.
 * **Matplotlib & Seaborn:** Production of executive-grade macroeconomic visualizations.
 
+
+
 ## Execution and Reproducibility
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/georgepm31-lab/colombia-macroeconomic-review-2022-2026-Gustavo-Petro-government.git](https://github.com/georgepm31-lab/colombia-macroeconomic-review-2022-2026-Gustavo-Petro-government.git)
+git clone https://github.com/georgepm31-lab/colombia-macroeconomic-review-2022-2026-Gustavo-Petro-government.git
 cd colombia-macroeconomic-review-2022-2026-Gustavo-Petro-government
-
 ```
 
 2. Install required dependencies:
