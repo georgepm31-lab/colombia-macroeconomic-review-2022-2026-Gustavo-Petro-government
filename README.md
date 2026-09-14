@@ -131,6 +131,6 @@ jupyter notebook notebooks/colombia_macroeconomic_review_2022_2026.ipynb
 ## Author
 **Jorge Enrique**
 
-*Data Science & Macroeconomic Analytics
+* Data Science & Macroeconomic Analytics
 
 * [GitHub Profile](https://github.com/georgepm31-lab)
